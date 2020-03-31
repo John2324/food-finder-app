@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- package com.google.firebase.example.fireeats;
+ package com.google.firebase.example.yumtum;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -27,7 +27,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.example.fireeats.model.Rating;
+import com.google.firebase.example.yumtum.model.Rating;
 
 import me.zhanghai.android.materialratingbar.MaterialRatingBar;
 
